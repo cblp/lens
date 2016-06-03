@@ -39,6 +39,12 @@ module GHC.Generics.Lens
   , _M1
   , _L1
   , _R1
+  , _UAddr
+  , _UChar
+  , _UDouble
+  , _UFloat
+  , _UInt
+  , _UWord
   ) where
 
 import Control.Lens
